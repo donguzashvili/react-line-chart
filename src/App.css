@@ -1,0 +1,8 @@
+canvas {
+  display: block; /* Ensure it's displayed */
+  margin: 0 auto; /* Optional, to center the canvas */
+}
+
+body {
+  background-color: gray;
+}
